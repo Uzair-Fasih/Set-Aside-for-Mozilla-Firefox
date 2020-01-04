@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <clipPath id="clip-SaveIcon">
+      <rect width="1080" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="SaveIcon" clip-path="url(#clip-SaveIcon)">
+    <g id="Group_10" data-name="Group 10" transform="translate(-279.109 -280.038)">
+      <g id="Group_7" data-name="Group 7" transform="translate(279.109 490)">
+        <g id="Group_3" data-name="Group 3" transform="translate(237.693)">
+          <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(0)" fill="none" stroke="#fff" stroke-width="35.6">
+            <rect width="834.307" height="659.206" stroke="none"/>
+            <rect x="17.8" y="17.8" width="798.707" height="623.606" fill="none"/>
+          </g>
+          <line id="Line_1" data-name="Line 1" x2="828.466" transform="translate(5.15 165.754)" fill="none" stroke="#fff" stroke-width="35.6"/>
+        </g>
+        <g id="Group_9" data-name="Group 9" transform="translate(0 289.785)">
+          <rect id="Rectangle_3" data-name="Rectangle 3" width="417.848" height="35.981" transform="translate(272.093 103.093)" fill="#fff"/>
+          <path id="Path_2" data-name="Path 2" d="M103.03,69.509V326.833h36.107V69.509l77.5,77.949,25.528-25.676L121.084,0,0,121.782l25.528,25.676Z" transform="translate(0 242.167) rotate(-90)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

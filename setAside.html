@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="assets/style.css" rel="stylesheet" type="text/css" />
+  <title>Set Aside</title>
+</head>
+<body>
+  <div class="container">
+    <span class="titlebar">
+      <p>Tabs you've set aside</p>
+      <button id="newSessionButton" onclick="saveSession()">
+        <p onclick="saveSession()">Save New Session</p>
+        <div class="background" onclick="saveSession()"></div>
+      </button>
+    </span>
+    <div class="panel-list">
+      <div class="empyt-panel" id="empyt-panel">
+        <svg style="width: 4rem" class="rotate" viewBox="0 0 24 24">
+          <path fill="#FFF" d="M12,4V2A10,10 0 0,0 2,12H4A8,8 0 0,1 12,4Z" />
+        </svg>
+      </div>
+      <!-- <div class="panel-instance">
+        <div class="panel-info">
+          <div class="panel-info-l">
+            <span>1 tab</span>
+            <span>Just Now</span>
+          </div>
+          <div class="panel-info-r">
+            <span>Restore tabs</span>
+            <img src="./icons/cross.svg" />
+          </div>
+        </div>
+        <div class="panels-scroll-left" onclick="scrollLeft()">
+          <img src="icons/left-arrow-chevron.svg" onclick="scrollLeft()" />
+        </div>
+        <div class="panels-scroll-right" onclick="scrollRight()">
+          <img src="icons/left-arrow-chevron.svg" onclick="scrollRight()" />
+        </div>
+        <div class="panels">
+          <div class="panel">
+            <span>
+              <p>Google</p><img src="./icons/cross.svg" /></span>
+          </div>
+          <div class="panel">
+            <span>
+              <p>Google</p><img src="./icons/cross.svg" /></span>
+          </div>
+          <div class="panel">
+            <span>
+              <p>Google</p><img src="./icons/cross.svg" /></span>
+          </div>
+          <div class="panel">
+            <span>
+              <p>Google</p><img src="./icons/cross.svg" /></span>
+          </div>
+          <div class="panel">
+            <span>
+              <p>Google</p><img src="./icons/cross.svg" /></span>
+          </div>
+          <div class="panel">
+            <span>
+              <p>Google</p><img src="./icons/cross.svg" /></span>
+          </div>
+          <div class="panel">
+            <span>
+              <p>Google</p><img src="./icons/cross.svg" /></span>
+          </div>
+        </div>
+      </div> -->
+    </div>
+  </div>
+  <script src="setAside.js"></script>
+</body>
+</html>

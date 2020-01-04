@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3" data-name="Path 3" d="M863.592,702.654V889.909H567.425V13.556h923.052V391.811H863.592Z" transform="translate(-567.425 -13.556)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-SetAsideIcon">
+      <rect width="1080" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="SetAsideIcon" clip-path="url(#clip-SetAsideIcon)">
+    <g id="Bar" transform="translate(-599.552 32.983)">
+      <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(567.425 13.556)" clip-path="url(#clip-path)">
+        <g id="Group_4" data-name="Group 4" transform="translate(31.562 33.039)">
+          <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(0 -21)" fill="none" stroke="#fff" stroke-width="85.6">
+            <rect width="849.469" height="671.185" stroke="none"/>
+            <rect x="42.8" y="42.8" width="763.869" height="585.585" fill="none"/>
+          </g>
+          <line id="Line_1" data-name="Line 1" x2="843.522" transform="translate(0.244 200.766)" fill="none" stroke="#fff" stroke-width="85.6"/>
+        </g>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(830.083 375.472)">
+        <g id="Rectangle_2-2" data-name="Rectangle 2" transform="translate(0)" fill="none" stroke="#fff" stroke-width="85.6">
+          <rect width="849.469" height="671.185" stroke="none"/>
+          <rect x="42.8" y="42.8" width="763.869" height="585.585" fill="none"/>
+        </g>
+        <line id="Line_1-2" data-name="Line 1" x2="843.522" transform="translate(6.244 233.766)" fill="none" stroke="#fff" stroke-width="85.6"/>
+      </g>
+    </g>
+  </g>
+</svg>

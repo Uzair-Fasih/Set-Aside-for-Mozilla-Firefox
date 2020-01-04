@@ -1,0 +1,36 @@
+{
+  "applications": {
+    "gecko": {
+      "strict_min_version": "58.0a1"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "browser_style": true,
+    "default_title": "Set Aside",
+    "default_popup": "setAside.html",
+    "default_icon": {
+      "1080": "icons/setAsideIcon.png"
+    },
+    "theme_icons": [{
+      "light": "./icons/SetAsideIcon.png",
+      "dark": "icons/SetAsideIconLight.png",
+      "size": 32
+    }]
+  },
+  "description": "A list of methods you can perform on a tab.",
+  "homepage_url": "https://github.com/",
+  "manifest_version": 2,
+  "name": "Set Aside",
+  "permissions": [
+    "<all_urls>",
+    "tabs",
+    "storage"
+  ],
+  "icons": {
+    "1080": "icons/setAsideIconLight.png"
+  },
+  "version": "1.0"
+}
