@@ -21,7 +21,7 @@
     }]
   },
   "description": "A list of methods you can perform on a tab.",
-  "homepage_url": "https://github.com/",
+  "homepage_url": "https://github.com/Uzair-Fasih/Set-Aside-for-Mozilla-Firefox",
   "manifest_version": 2,
   "name": "Set Aside",
   "permissions": [
